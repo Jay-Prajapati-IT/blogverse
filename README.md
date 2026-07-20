@@ -8,3 +8,5 @@ MONGODB_PASSWORD="piQtb0XozRng9uCP"
 MONGODB_URI="mongodb+srv://jayprajapatigj_db_user:piQtb0XozRng9uCP@blogverse.jkrrf8p.mongodb.net"
 
 hello jay
+
+its from another bracnh
